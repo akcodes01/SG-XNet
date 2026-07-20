@@ -94,7 +94,7 @@ SG-XNet
 # 🏗 Proposed Architecture
 
 <p align="center">
-<img src="assets/Proposed Model/SG-XNet.png" width="500">
+<img src="assets/Proposed Model/SG-XNet.png" width="900">
 </p>
 
 The proposed SG-XNet architecture combines **GraphSAGE** and **Graph Convolutional Networks (GCN)** to leverage the strengths of both models for transfer learning.
@@ -112,7 +112,7 @@ The workflow consists of:
 # 🔬 Methodology
 
 <p align="center">
-<img src="assets/methodology/Research Methodology.png" width="600">
+<img src="assets/methodology/Research Methodology.png" width="900">
 </p>
 
 SG-XNet follows a three-stage learning framework.
@@ -165,10 +165,10 @@ before performing node classification on the target graph.
 ## Accuracy Comparison
 
 <p align="center">
-<img src="assets/results/Citeseer & Cora Feature Extraction.png" width="900">
-<img src="assets/results/Citeseer & Cora Finetuned.png" width="900">
-<img src="assets/results/DBLP & PubMED Feature Extraction.png" width="900">
-<img src="assets/results/DBLP & PubMed Finetuned.png" width="900">
+<img src="assets/results/Citeseer & Cora Feature Extraction.png" width="500">
+<img src="assets/results/Citeseer & Cora Finetuned.png" width="500">
+<img src="assets/results/DBLP & PubMED Feature Extraction.png" width="500">
+<img src="assets/results/DBLP & PubMed Finetuned.png" width="500">
 </p>
 
 The proposed SG-XNet framework demonstrates competitive performance across multiple graph datasets while effectively transferring knowledge between source and target domains.
