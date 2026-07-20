@@ -94,7 +94,7 @@ SG-XNet
 # 🏗 Proposed Architecture
 
 <p align="center">
-<img src="assets/Proposed Model/SG-Xnet.png" width="900">
+<img src="assets/Proposed Model/SG-XNet.png" width="500">
 </p>
 
 The proposed SG-XNet architecture combines **GraphSAGE** and **Graph Convolutional Networks (GCN)** to leverage the strengths of both models for transfer learning.
