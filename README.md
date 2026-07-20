@@ -112,7 +112,7 @@ The workflow consists of:
 # 🔬 Methodology
 
 <p align="center">
-<img src="assets/methodology/Research Methodology.png" width="900">
+<img src="assets/methodology/Research Methodology.png" width="600">
 </p>
 
 SG-XNet follows a three-stage learning framework.
@@ -133,16 +133,6 @@ Knowledge is transferred using:
 - Fine-Tuning
 
 before performing node classification on the target graph.
-
----
-
-# 📑 Proposed Algorithm
-
-<p align="center">
-<img src="assets/Proposed Model/SG-Xnet.png" width="800">
-</p>
-
-The proposed algorithm summarizes the complete SG-XNet workflow from graph preprocessing through representation learning, transfer learning, and final node classification.
 
 ---
 
