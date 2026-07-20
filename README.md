@@ -164,11 +164,18 @@ before performing node classification on the target graph.
 
 ## Accuracy Comparison
 
+<h3 align="center">Citeseer → Cora Transfer Learning</h3>
+
 <p align="center">
-<img src="assets/results/Citeseer & Cora Feature Extraction.png" width="500">
-<img src="assets/results/Citeseer & Cora Finetuned.png" width="500">
-<img src="assets/results/DBLP & PubMED Feature Extraction.png" width="500">
-<img src="assets/results/DBLP & PubMed Finetuned.png" width="500">
+  <img src="assets/results/Citeseer & Cora Feature Extraction.png" width="420">
+  <img src="assets/results/Citeseer & Cora Finetuned.png" width="420">
+</p>
+
+<h3 align="center">DBLP → PubMed Transfer Learning</h3>
+
+<p align="center">
+  <img src="assets/results/DBLP & PubMED Feature Extraction.png" width="420">
+  <img src="assets/results/DBLP & PubMed Finetuned.png" width="420">
 </p>
 
 The proposed SG-XNet framework demonstrates competitive performance across multiple graph datasets while effectively transferring knowledge between source and target domains.
@@ -231,15 +238,11 @@ Citation information will be added once the paper has been published.
 
 # 📜 License
 
-This repository is provided for **research and academic showcase purposes only**.
-
 All rights to the research content remain with the respective authors unless otherwise stated.
 
 ---
 
 # ⚠️ Disclaimer
-
-This repository shares only the conceptual framework, methodology, architecture, and summarized experimental findings of SG-XNet.
 
 The implementation, trained models, datasets, and complete manuscript are intentionally withheld while the work progresses through the publication process.
 
