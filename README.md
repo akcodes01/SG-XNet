@@ -174,7 +174,7 @@ before performing node classification on the target graph.
 
 <p align="center">
   <img src="assets/results/DBLP & PubMED Feature Extraction.png" width="400">
-  <img src="assets/results/DBLP & PubMED Finetuned.png" width="400">
+  <img src="assets/results/DBLP & PubMED Finetuned.png" width="401">
 </p>
 
 The proposed SG-XNet framework demonstrates competitive performance across multiple graph datasets while effectively transferring knowledge between source and target domains.
