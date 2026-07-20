@@ -7,7 +7,6 @@
 ### A Hybrid Graph Neural Network for Transfer Learning in Node Classification
 
 ![Research](https://img.shields.io/badge/Research-Graph%20Neural%20Networks-0A66C2)
-![Status](https://img.shields.io/badge/Status-Unpublished-orange)
 ![Transfer Learning](https://img.shields.io/badge/Transfer-Learning-success)
 ![Node Classification](https://img.shields.io/badge/Task-Node%20Classification-blue)
 ![Repository](https://img.shields.io/badge/Repository-Research%20Showcase-black)
